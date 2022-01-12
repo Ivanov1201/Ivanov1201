@@ -1,14 +1,12 @@
 # Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-<!--<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>-->
-
-## Welcome
+<!--<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
 ![Ivanov1201's github stats](https://github-readme-stats.vercel.app/api?username=Ivanov1201&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![Ivanov1201's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanov1201&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=Ivanov1201&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
+   <img src="https://github-profile-trophy.vercel.app/?username=Ivanov1201&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" />
 </p>
-
+ -->
 ### Highlights
 <table>
   <tr>
@@ -28,7 +26,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
    </tr>
   </table>
-## Senior Full Stack / Blockchain Engineer
+### Senior Full Stack / Blockchain Engineer
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
