@@ -1,17 +1,9 @@
-# Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-<!--<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
+## Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-![Ivanov1201's github stats](https://github-readme-stats.vercel.app/api?username=Ivanov1201&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![Ivanov1201's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanov1201&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Ivanov1201&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" />
-</p>
- -->
- 
- ## Senior Full Stack / Blockchain Engineer
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-  
+   <a href="https://github.com/Ivanov1201"><img src="https://readme-typing-svg.herokuapp.com/?size=35&lines=Senior%20Full%20Stack%20/%20Blockchain%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=85"></a>
+<img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+   
 * I am an entrepreneurial software engineer heavily focusing on web development as a Full-stack.
 * My focus is to help clients with their business by fixing and creating projects of value.
 * I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
